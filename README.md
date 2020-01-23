@@ -1,2 +1,2 @@
 # Wikipedia-PageRanking
-Page ranking algorithm written in Java an Hadoop Map-Reduce to rank most visited pages from Wikipedia logs
+Created with Java and Hadoop, is a page ranking algorithm in Map-Reduce that ranks most visited Wikipedia pages
